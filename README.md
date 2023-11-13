@@ -8,10 +8,18 @@ The project required the implementation of a monitoring platform which allows th
 
 The platform should be used by patients, specialized practitioners and technical administrators, each of which requires a specific user interfaces with available functionality based on the different roles.
 
-## Development
-The application was developed in its enitrety (frontend + backend) with Microsoft Access, and all the functionality were obtained with the integration of VBA and SQL.
+## Requirements
+The project requirements can be found [here](Project_Specs2022.pdf).
 
-The project requirements can be found at (link file).
+## Development
+The application was developed in its enitrety (frontend + backend) with Microsoft Access, and all the functionality were obtained with the integration of **VBA** and **SQL**.
+
+For the design the following **UML** diagrams were produced:
+- Use case diagrams ([link](Use_Case))
+- Activity diagrams ([link](Activity_Diagrams))
+- Class diagram ([link](Class_Diagram))
+- Entity/Relationship (ER) diagram ([link](ER_Diagram))
+
 
 ## Application Screenshots
 
