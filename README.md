@@ -4,15 +4,15 @@
 <img src="https://github.com/MattiaCazzolla/moodcompanion/assets/88252848/7db5a34c-e20f-4a24-a59c-c532dfdda807" width="350">
 </p>
 
-The project required the implementation of a monitoring platform which allows the _at-home_ and _in-hospital_ monitoring of several biological parameters with the aim of tracking physiological changes to follow up mood disorders in patients diagnosed with either **depression** or **bipolar disorder**.
+The project required the implementation of a monitoring platform that allows the _at-home_ and _in-hospital_ monitoring of several biological parameters with the aim of tracking physiological changes to follow up mood disorders in patients diagnosed with either **depression** or **bipolar disorder**.
 
-The platform should be used by patients, specialized practitioners and technical administrators, each of which requires a specific user interfaces with available functionality based on the different roles.
+The platform should be used by patients, specialized practitioners and technical administrators, each of which requires specific user interfaces with available functionality based on the different roles.
 
 ## Requirements
 The project requirements can be found [here](Project_Specs2022.pdf).
 
 ## Development
-The application was developed in its enitrety (frontend + backend) with Microsoft Access, and all the functionality were obtained with the integration of **VBA** and **SQL**.
+The application was developed in its entirety (frontend + backend) with Microsoft Access, and all the functionalities were obtained with the integration of **VBA** and **SQL**.
 
 For the design the following **UML** diagrams were produced:
 - Use case diagrams ([link](Use_Case))
